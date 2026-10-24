@@ -16559,6 +16559,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libOmxVideoDSMode",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18095,6 +18096,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdcodecv4l2_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18126,6 +18128,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdcommonutils_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18157,6 +18160,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdconfigutils_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18188,6 +18192,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfddisplayconfig_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18218,6 +18223,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdhdcpcp",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18246,6 +18252,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdhdcpservice_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18277,6 +18284,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmminterface_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18304,6 +18312,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmmservice_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18333,6 +18342,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmmsrc_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18375,6 +18385,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmodulehdcpsession",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18406,6 +18417,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdrtsp_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18436,6 +18448,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdsessionmodule",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18467,6 +18480,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdsourcesession_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18504,6 +18518,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdsourcesm_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18544,6 +18559,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcinterface_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18574,6 +18590,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsink_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18601,6 +18618,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsinkinterface_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18632,6 +18650,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsrc_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18663,6 +18682,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsrcinterface_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18694,6 +18714,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdutils_proprietary",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -18859,6 +18880,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "vendor.qti.hardware.wifidisplaysession@1.0_vendor",
+    enabled: false,
     stem: "vendor.qti.hardware.wifidisplaysession@1.0",
     owner: "sony",
     strip: {
@@ -18888,6 +18910,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -20933,6 +20956,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdclient",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -20992,6 +21016,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdcommonutils",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21019,7 +21044,6 @@ cc_prebuilt_library_shared {
                 "libjpeg",
                 "libpiex",
                 "libpng",
-                "libheif",
                 "libnativewindow",
                 "libEGL",
                 "libGLESv2",
@@ -21051,7 +21075,6 @@ cc_prebuilt_library_shared {
                 "libjpeg",
                 "libpiex",
                 "libpng",
-                "libheif",
                 "libnativewindow",
                 "libEGL",
                 "libGLESv2",
@@ -21069,6 +21092,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdconfigutils",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21118,6 +21142,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfddisplayconfig",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21169,6 +21194,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmminterface",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21210,6 +21236,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmmsink",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21291,6 +21318,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdrtsp",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21338,6 +21366,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdsinksm",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21405,6 +21434,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcinterface",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21452,6 +21482,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsink",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21493,6 +21524,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsinkinterface",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21542,6 +21574,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsrc",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -21591,6 +21624,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfduibcsrcinterface",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22085,6 +22119,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "com.qualcomm.qti.wifidisplayhal@1.0",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22113,6 +22148,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdavenhancements",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22143,6 +22179,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdmmsrc_system",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22186,6 +22223,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdservice",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22230,6 +22268,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "vendor.qti.hardware.wifidisplaysession@1.0",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22409,6 +22448,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libwfdnative",
+    enabled: false,
     owner: "sony",
     strip: {
         none: true,
@@ -22610,6 +22650,7 @@ android_app_import {
 
 android_app_import {
     name: "WfdService",
+    enabled: false,
     owner: "sony",
     apk: "proprietary/system_ext/priv-app/WfdService/WfdService.apk",
     certificate: "platform",
@@ -24955,6 +24996,7 @@ cc_prebuilt_binary {
 
 cc_prebuilt_binary {
     name: "wfdhdcphalservice",
+    enabled: false,
     owner: "sony",
     target: {
         android_arm: {
@@ -24998,6 +25040,7 @@ cc_prebuilt_binary {
 
 cc_prebuilt_binary {
     name: "wifidisplayhalservice",
+    enabled: false,
     owner: "sony",
     target: {
         android_arm: {
@@ -25189,6 +25232,7 @@ cc_prebuilt_binary {
 
 cc_prebuilt_binary {
     name: "wfdservice",
+    enabled: false,
     owner: "sony",
     target: {
         android_arm: {
@@ -25224,6 +25268,7 @@ cc_prebuilt_binary {
 
 install_symlink {
     name: "system_ext_priv-app_WfdService_lib_arm64_libwfdnative_so",
+    enabled: false,
     system_ext_specific: true,
     installed_location: "priv-app/WfdService/lib/arm64/libwfdnative.so",
     symlink_target: "/system_ext/lib64/libwfdnative.so",
